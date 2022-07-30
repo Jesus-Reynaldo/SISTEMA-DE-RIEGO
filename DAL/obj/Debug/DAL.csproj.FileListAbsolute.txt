@@ -1,0 +1,18 @@
+F:\Visual Studio\Riego\DAL\bin\Debug\DAL.dll
+F:\Visual Studio\Riego\DAL\bin\Debug\DAL.pdb
+F:\Visual Studio\Riego\DAL\bin\Debug\EN.dll
+F:\Visual Studio\Riego\DAL\bin\Debug\EN.pdb
+F:\Visual Studio\Riego\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\Visual Studio\Riego\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Riego\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Visual Studio\Riego\DAL\obj\Debug\DAL.dll
+F:\Visual Studio\Riego\DAL\obj\Debug\DAL.pdb
+E:\Riego\DAL\bin\Debug\DAL.dll
+E:\Riego\DAL\bin\Debug\DAL.pdb
+E:\Riego\DAL\bin\Debug\EN.dll
+E:\Riego\DAL\bin\Debug\EN.pdb
+E:\Riego\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Riego\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Riego\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Riego\DAL\obj\Debug\DAL.dll
+E:\Riego\DAL\obj\Debug\DAL.pdb

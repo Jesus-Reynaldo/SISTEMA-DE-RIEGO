@@ -1,0 +1,12 @@
+F:\Visual Studio\Riego\EN\bin\Debug\EN.dll
+F:\Visual Studio\Riego\EN\bin\Debug\EN.pdb
+F:\Visual Studio\Riego\EN\obj\Debug\EN.csprojAssemblyReference.cache
+F:\Visual Studio\Riego\EN\obj\Debug\EN.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Riego\EN\obj\Debug\EN.dll
+F:\Visual Studio\Riego\EN\obj\Debug\EN.pdb
+E:\Riego\EN\bin\Debug\EN.dll
+E:\Riego\EN\bin\Debug\EN.pdb
+E:\Riego\EN\obj\Debug\EN.csproj.CoreCompileInputs.cache
+E:\Riego\EN\obj\Debug\EN.dll
+E:\Riego\EN\obj\Debug\EN.pdb
+E:\Riego\EN\obj\Debug\EN.csprojAssemblyReference.cache

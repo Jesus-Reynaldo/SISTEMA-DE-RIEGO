@@ -1,0 +1,23 @@
+F:\Visual Studio\Riego\BL\bin\Debug\BL.dll
+F:\Visual Studio\Riego\BL\bin\Debug\BL.pdb
+F:\Visual Studio\Riego\BL\bin\Debug\DAL.dll
+F:\Visual Studio\Riego\BL\bin\Debug\EN.dll
+F:\Visual Studio\Riego\BL\bin\Debug\DAL.pdb
+F:\Visual Studio\Riego\BL\bin\Debug\EN.pdb
+F:\Visual Studio\Riego\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\Visual Studio\Riego\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Riego\BL\obj\Debug\BL.csproj.CopyComplete
+F:\Visual Studio\Riego\BL\obj\Debug\BL.dll
+F:\Visual Studio\Riego\BL\obj\Debug\BL.pdb
+E:\Riego\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\Riego\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\Riego\BL\obj\Debug\BL.dll
+E:\Riego\BL\obj\Debug\BL.pdb
+E:\Riego\BL\bin\Debug\BL.dll
+E:\Riego\BL\bin\Debug\BL.pdb
+E:\Riego\BL\bin\Debug\DAL.dll
+E:\Riego\BL\bin\Debug\EN.dll
+E:\Riego\BL\bin\Debug\DAL.pdb
+E:\Riego\BL\bin\Debug\EN.pdb
+E:\Riego\BL\obj\Debug\BL.csproj.CopyComplete
+E:\Riego\BL\bin\Debug\Bunifu_UI_v1.5.3.dll

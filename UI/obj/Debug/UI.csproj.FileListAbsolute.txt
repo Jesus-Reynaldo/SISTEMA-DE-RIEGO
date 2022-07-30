@@ -1,0 +1,213 @@
+F:\Visual Studio\Riego\UI\bin\Debug\UI.exe.config
+F:\Visual Studio\Riego\UI\bin\Debug\UI.exe
+F:\Visual Studio\Riego\UI\bin\Debug\UI.pdb
+F:\Visual Studio\Riego\UI\bin\Debug\BL.dll
+F:\Visual Studio\Riego\UI\bin\Debug\EN.dll
+F:\Visual Studio\Riego\UI\bin\Debug\DAL.dll
+F:\Visual Studio\Riego\UI\bin\Debug\BL.pdb
+F:\Visual Studio\Riego\UI\bin\Debug\EN.pdb
+F:\Visual Studio\Riego\UI\bin\Debug\DAL.pdb
+F:\Visual Studio\Riego\UI\obj\Debug\UI.csprojAssemblyReference.cache
+F:\Visual Studio\Riego\UI\obj\Debug\UI.CultivoUI.resources
+F:\Visual Studio\Riego\UI\obj\Debug\UI.Properties.Resources.resources
+F:\Visual Studio\Riego\UI\obj\Debug\UI.ProyectoUI.resources
+F:\Visual Studio\Riego\UI\obj\Debug\UI.csproj.GenerateResource.cache
+F:\Visual Studio\Riego\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Riego\UI\obj\Debug\UI.csproj.CopyComplete
+F:\Visual Studio\Riego\UI\obj\Debug\UI.exe
+F:\Visual Studio\Riego\UI\obj\Debug\UI.pdb
+F:\Visual Studio\Riego\UI\obj\Debug\UI.MenuPrincipal.resources
+F:\Visual Studio\Riego\UI\obj\Debug\UI.Datos_ClimaticosUI.resources
+F:\Visual Studio\Riego\UI\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Visual Studio\Riego\UI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\Visual Studio\Riego\UI\bin\Debug\Bunifu.Core.dll
+F:\Visual Studio\Riego\UI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Riego\UI\bin\Debug\UI.exe.config
+E:\Riego\UI\bin\Debug\UI.exe
+E:\Riego\UI\bin\Debug\UI.pdb
+E:\Riego\UI\bin\Debug\BL.dll
+E:\Riego\UI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Riego\UI\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Riego\UI\bin\Debug\EN.dll
+E:\Riego\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Riego\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Riego\UI\bin\Debug\DAL.dll
+E:\Riego\UI\bin\Debug\stdole.dll
+E:\Riego\UI\bin\Debug\BL.pdb
+E:\Riego\UI\bin\Debug\EN.pdb
+E:\Riego\UI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Riego\UI\bin\Debug\DAL.pdb
+E:\Riego\UI\obj\Debug\UI.csprojAssemblyReference.cache
+E:\Riego\UI\obj\Debug\UI.CultivoUI.resources
+E:\Riego\UI\obj\Debug\UI.Datos_ClimaticosUI.resources
+E:\Riego\UI\obj\Debug\UI.MenuPrincipal.resources
+E:\Riego\UI\obj\Debug\UI.Properties.Resources.resources
+E:\Riego\UI\obj\Debug\UI.ProyectoUI.resources
+E:\Riego\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\Riego\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\Riego\UI\obj\Debug\UI.csproj.CopyComplete
+E:\Riego\UI\obj\Debug\UI.exe
+E:\Riego\UI\obj\Debug\UI.pdb
+E:\Riego\UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Riego\UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Riego\UI\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Riego\UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Riego\UI\bin\Debug\EnvDTE.dll
+E:\Riego\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Riego\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Riego\UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Riego\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Riego\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Riego\UI\bin\Debug\Microsoft.MSXML.dll
+E:\Riego\UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Riego\UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Riego\UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Riego\UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Riego\UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Riego\UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Riego\UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Riego\UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Riego\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Riego\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Riego\UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Riego\UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Riego\UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Riego\UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Riego\UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Riego\UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Riego\UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Riego\UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Riego\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Riego\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Riego\UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Riego\UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Riego\UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Riego\UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Riego\UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Riego\UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Riego\UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Riego\UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Riego\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Riego\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Riego\UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Riego\UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Riego\UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Riego\UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Riego\UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Riego\UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Riego\UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Riego\UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Riego\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Riego\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Riego\UI\obj\Debug\UI.ReporteCalendario.resources
+E:\Riego\UI\obj\Debug\RdlCompile.cache
+E:\Riego\UI\obj\Debug\RdlCompile.compiled
+E:\Riego\UI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Riego\UI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\Riego\UI\obj\Debug\UI.Report.ReportDatos.resources
+E:\Riego\UI\obj\Debug\UI.DiseñoAgronomicoUI.resources
+E:\Riego\UI\obj\Debug\UI.Report.ReportDiseño_Agronomico.resources
+E:\Riego\UI\obj\Debug\UI.Report.ReportDatosAgronomico.resources
+E:\Riego\UI\obj\Debug\UI.Report.ReportBalanceHidrico.resources
+E:\Riego\UI\obj\Debug\UI.DiseñoHidraulicoUI.resources
+E:\Riego\UI\obj\Debug\UI.Report.ReportHidraulico.resources
+E:\Riego\UI\obj\Debug\UI.Report.ReporteHidraulicoEspecifico.resources
+E:\Respaldo 1.2\Riego\UI\bin\Debug\UI.exe.config
+E:\Respaldo 1.2\Riego\UI\bin\Debug\UI.exe
+E:\Respaldo 1.2\Riego\UI\bin\Debug\UI.pdb
+E:\Respaldo 1.2\Riego\UI\bin\Debug\BL.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\EN.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\DAL.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\EnvDTE.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\stdole.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Microsoft.MSXML.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\BL.pdb
+E:\Respaldo 1.2\Riego\UI\bin\Debug\EN.pdb
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Respaldo 1.2\Riego\UI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\Respaldo 1.2\Riego\UI\bin\Debug\DAL.pdb
+E:\Respaldo 1.2\Riego\UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Respaldo 1.2\Riego\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.csprojAssemblyReference.cache
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.CultivoUI.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.Datos_ClimaticosUI.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.DiseñoAgronomicoUI.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.DiseñoHidraulicoUI.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.MenuPrincipal.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.Properties.Resources.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.ProyectoUI.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.Report.ReportBalanceHidrico.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.Report.ReportDatos.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.Report.ReportDatosAgronomico.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.Report.ReportDiseño_Agronomico.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.ReporteCalendario.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.Report.ReporteHidraulicoEspecifico.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.Report.ReportHidraulico.resources
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\Respaldo 1.2\Riego\UI\obj\Debug\RdlCompile.cache
+E:\Respaldo 1.2\Riego\UI\obj\Debug\RdlCompile.compiled
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.csproj.CopyComplete
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.exe
+E:\Respaldo 1.2\Riego\UI\obj\Debug\UI.pdb
+E:\Riego\UI\obj\Debug\UI.ElipseCircular.resources
+E:\Riego\UI\obj\Debug\UI.PeriodoDesarrollo.resources
+E:\Riego\UI\obj\Debug\UI.RegistrarPeriodoDesarrollo.resources
+E:\Riego\UI\obj\Debug\UI.EditarPeriodoDesarrollo.resources
+E:\Riego\UI\obj\Debug\UI.AspersorUI.resources
+E:\Riego\UI\obj\Debug\UI.Editar_AspersorUI.resources
+E:\Riego\UI\obj\Debug\UI.Registrar_AspersorUI.resources
+E:\Riego\UI\obj\Debug\UI.Copia_Seguridad.resources
+E:\Riego\UI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
